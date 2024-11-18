@@ -31,6 +31,6 @@ Scarce Koi
   <p>🤝 I’m looking for help with <strong>nothing</strong> at the moment.</p>
   <p>👨‍💻 All of my projects are available at <a href="">nowhere</a> at the moment.</p>
   <p>📝 I regularly write articles on <a href="">nowhere</a> at the moment.</p>
-  <p>📫 Reache me at <strong>(my email is not public yet)@gmail.com</strong>.</p>
+  <p>📫 Reach me at <strong>(my email is not public yet)@gmail.com</strong>.</p>
   <p>⚡ Fun fact: <strong>I play drums and the violin</strong>.</p>
 </div>
