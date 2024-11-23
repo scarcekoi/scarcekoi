@@ -26,7 +26,7 @@ Scarce Koi
 
 <div align="center">
   <p>🔭 I’m currently working on a <a href="https://github.com/scarcekoi/Calculator">python calculator project</a>.</p>
-  <p>🌱 I’m currently learning <strong>python</strong> & <strong>html</strong>.</p>
+  <p>🌱 I’m currently learning <a href="https://www.python.org/" target="_blank"><strong>python</strong></a> & <strong>HTML</strong>.</p>
   <p>👯 I’m looking to collaborate on <strong>nothing</strong> at the moment.</p>
   <p>🤝 I’m looking for help with <strong>nothing</strong> at the moment.</p>
   <p>👨‍💻 All of my projects are available at <a href="">nowhere</a> at the moment.</p>
