@@ -25,8 +25,8 @@ Scarce Koi
 </p>
 
 <div align="center">
-  <p>🔭 I’m currently working on a <a href="https://github.com/scarcekoi/Calculator">python calculator project</a>, a Catppuccin port of <a href="https://github.com/scarcekoi/gamemaker">GameMaker Studio 2</a>, and I'm contributing to the <a href="https://github.com/catppuccin/minecraft">Catppuccin port of Minecraft</p>.</p>
-  <p>🌱 I’m currently learning <a href="https://www.python.org/" target="_blank"><strong>python</strong></a>, <strong>HTML</strong>, & <strong>tera</strong>.</p>
+  <p>🔭 I’m currently working on a <a href="https://github.com/scarcekoi/Calculator">python calculator project</a>, a Catppuccin port of <a href="https://github.com/scarcekoi/gamemaker">GameMaker Studio 2</a>, and I'm contributing to the <a href="https://github.com/catppuccin/minecraft">Catppuccin port of Minecraft</a>.</p>
+  <p>🌱 I’m currently learning <a href="https://www.python.org/" target="_blank"><strong>python</strong></a>, <strong>HTML</strong>, & <a href="https://keats.github.io/tera/" target="_blank"><strong>tera</strong></a>.</p>
   <p>👯 I’m looking to collaborate on <strong>nothing</strong> at the moment.</p>
   <p>🤝 I’m looking for help with my <a href="https://github.com/scarcekoi/gamemaker">Catppuccin port of GameMaker Studio 2</a>.</p>
   <p>👨‍💻 All of my projects are available at <a href="">nowhere</a> at the moment.</p>
