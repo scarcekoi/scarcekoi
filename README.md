@@ -25,12 +25,12 @@ Scarce Koi
 </p>
 
 <div align="center">
-  <p>🔭 I’m currently working on a <a href="https://github.com/scarcekoi/Calculator">python calculator project</a>, a Catppuccin port of <a href="https://github.com/scarcekoi/gamemaker">GameMaker Studio 2</a>, and I'm contributing to the <a href="https://github.com/catppuccin/minecraft">Catppuccin port of Minecraft</a>.</p>
-  <p>🌱 I’m currently learning <a href="https://www.python.org/" target="_blank"><strong>python</strong></a>, <strong>HTML</strong>, & <a href="https://keats.github.io/tera/" target="_blank"><strong>tera</strong></a>.</p>
+  <p>🔭 I’m currently working on my <a href="https://github.com/scarcekoi/website">website</a>.</p>
+  <p>🌱 I’m currently learning <a href="https://www.python.org/" target="_blank"><strong>python</strong></a>, <strong>HTML</strong>, & <a href="https://astro.build/"><strong>astro</strong></a>.</p>
   <p>👯 I’m looking to collaborate on <strong>nothing</strong> at the moment.</p>
-  <p>🤝 I’m looking for help with my <a href="https://github.com/scarcekoi/website">website</a> & <a href="https://github.com/scarcekoi/gamemaker">Catppuccin port of GameMaker Studio 2</a>.</p>
-  <p>👨‍💻 All of my projects are available at <a href="">nowhere</a> at the moment.</p>
-  <p>📝 I regularly write articles on <a href="">nowhere</a> at the moment.</p>
-  <p>📫 Reach me at <strong>(my email is not public yet)@gmail.com</strong>.</p>
+  <p>🤝 I’m looking for help with my <a href="https://github.com/scarcekoi/website">website</a>.</p>
+  <p>👨‍💻 All of my projects are available on my <a href="https://scarcekoi.vercel.app/projects">website</a>.</p>
+  <p>📝 I write articles on my <a href="">blog</a>.</p>
+  <p>📫 Reach me at <strong><a href="mailto:scarcekoi@gmail.com">scarcekoi@gmail.com</a></strong>.</p>
   <p>⚡ Fun fact: <strong>I play drums and the violin</strong>.</p>
 </div>
