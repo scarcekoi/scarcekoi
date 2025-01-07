@@ -1,0 +1,25 @@
+---
+import Layout from '~/layouts/Layout.astro';
+
+const title = `House Information`;
+---
+
+<Layout metadata={{ title }}>
+  <section class="flex items-center h-full p-16">
+    <div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
+      <div class="max-w-md text-center">
+        <h2 class="mb-8 font-bold text-6xl">
+          <span class="sr-only">Information</span>
+          <span class="text-primary">House Information</span>
+        </h2>
+        <p class="text-3xl font-semibold md:text-3xl">
+          Welcome to the <strong>house-information.vercel.app</strong> page.
+        </p>
+        <p class="mt-4 mb-8 text-lg text-muted dark:text-slate-400">
+          This is the home page for your house information website. You can add more details about the house here.
+        </p>
+        <a href="/" class="btn ml-4">Back to homepage</a>
+      </div>
+    </div>
+  </section>
+</Layout>
