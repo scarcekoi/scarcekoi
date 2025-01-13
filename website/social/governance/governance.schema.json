@@ -20,8 +20,7 @@
           "color",
           "description",
           "responsibilities",
-          "current-members",
-          "past-members"
+          "current-members"
         ],
         "properties": {
           "name": {
@@ -71,11 +70,6 @@
             "type": "array",
             "$ref": "#/$defs/members"
           },
-          "past-members": {
-            "title": "Past Members",
-            "description": "List of all members who used to be part of the team.",
-            "type": "array",
-            "$ref": "#/$defs/members"
           }
         }
       }
@@ -94,13 +88,23 @@
             "title": "Display Name",
             "description": "The display name of the member."
           },
+          "year": {
+            "type": "string",
+            "title": "Display Year",
+            "description": "The year it happened."
+          },
+          "job": {
+            "type": "string",
+            "title": "Display Job",
+            "description": "The job I had."
+          },
           "url": {
             "type": "string",
-            "title": "GitHub Profile",
-            "description": "The GitHub profile link of the member."
+            "title": "Blog Link",
+            "description": "The project blog link."
           }
         },
-        "required": ["name", "url"]
+        "required": ["name", "year", "job", "url"]
       }
     }
   }
