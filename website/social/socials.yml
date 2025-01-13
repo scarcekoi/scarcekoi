@@ -1,0 +1,5 @@
+socials:
+  github:
+    name: "GitHub"
+    url: "https://github.com/scarcekoi"
+# yaml-language-server: $schema=https://raw.githubusercontent.com/scaracekoi/theloniousprice/main/socials/socials.schema.json
