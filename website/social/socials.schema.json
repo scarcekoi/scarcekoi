@@ -9,7 +9,7 @@
     "socials": {
       "$id": "#social-links",
       "title": "Social Links",
-      "description": "Links to all of the Catppuccin accounts on various social media platforms.",
+      "description": "Links to all of my accounts on various social media platforms.",
       "type": "object",
       "additionalProperties": false,
       "patternProperties": {
@@ -25,7 +25,7 @@
             },
             "url": {
               "type": "string",
-              "description": "The link to the Catppuccin account on that social media platform."
+              "description": "The link to my account on that social media platform."
             }
           },
           "required": [
