@@ -20,10 +20,10 @@ Scarce Koi
 <h3 align="center">Social Media:</h3>
 <p align="center">
   <a href="https://fosstodon.org/@scarcekoi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/scarcekoi/scarcekoi/refs/heads/main/social/mastodon-logo.sv" alt="Scarce Koi's Mastodon Account" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/scarcekoi/scarcekoi/refs/heads/main/social/mastodon-logo.svg" alt="Scarce Koi's Mastodon Account" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@scarcekoi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/scarcekoi/scarcekoi/refs/heads/main/social/youtube-logo.sv" alt="Scarce Koi's Youtube Channel" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/scarcekoi/scarcekoi/refs/heads/main/social/youtube-logo.svg" alt="Scarce Koi's Youtube Channel" height="30" width="40" />
   </a>
 </p>
 
