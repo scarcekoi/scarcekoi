@@ -34,4 +34,5 @@ Scarce Koi
   <p>📫 Reach me at <strong><a href="mailto:scarcekoi@gmail.com">scarcekoi@gmail.com</a></strong>.</p>
   <p>⚡ Fun fact: <strong>I play drums and the violin</strong>.</p>
 </div>
-<a rel="me" href="https://fosstodon.org/@scarcekoi" style="display: none;">Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@scarcekoi" hidden>Mastodon</a>
+
