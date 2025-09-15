@@ -1,39 +1,25 @@
-<h1 align="center">
-Scarce Koi
-</h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarcekoi&layout=pie&langs_count=6&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Most Used Languages" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=scarcekoi&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub stats" />
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/scarcekoi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/scarcekoi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@scarcekoi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@scarcekoi) 
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=scarcekoi&theme=catppuccin-mocha" alt="Streak Stats" /></p>
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=scarcekoi&theme=catppuccin_mocha&hide_border=false&include_all_commits=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=scarcekoi&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=scarcekoi&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=scarcekoi&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center">Social Media:</h3>
-<p align="center">
-  <a href="https://fosstodon.org/@scarcekoi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/scarcekoi/scarcekoi/refs/heads/main/social/mastodon-logo.svg" alt="Scarce Koi's Mastodon Account" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@scarcekoi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/scarcekoi/scarcekoi/refs/heads/main/social/youtube-logo.svg" alt="Scarce Koi's Youtube Channel" height="30" width="40" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=scarcekoi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <p>🔭 I’m currently working on my <a href="https://github.com/scarcekoi/website">website</a>.</p>
-  <p>🌱 I’m currently learning <a href="https://www.python.org/" target="_blank"><strong>python</strong></a>, <strong>HTML</strong>, & <a href="https://astro.build/"><strong>astro</strong></a>.</p>
-  <p>👯 I’m looking to collaborate on <strong>nothing</strong> at the moment.</p>
-  <p>🤝 I’m looking for help with my <a href="https://github.com/scarcekoi/website">website</a>.</p>
-  <p>👨‍💻 All of my projects are available on my <a href="https://scarcekoi.vercel.app/projects">website</a>.</p>
-  <p>📝 I write articles on my <a href="">blog</a>.</p>
-  <p>📫 Reach me at <strong><a href="mailto:scarcekoi@gmail.com">scarcekoi@gmail.com</a></strong>.</p>
-  <p>⚡ Fun fact: <strong>I play drums and the violin</strong>.</p>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=scarcekoi&icon=3&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/scarcekoi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/scarcekoi) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
