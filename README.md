@@ -6,3 +6,8 @@
 ## Catppuccin Ports
 
 - [CopyQ](https://github.com/catppuccin/copyq)
+
+## Stats
+![Scarce Koi's GitHub Stats](https://scarcekoi-github-readme-stats.vercel.app/api?username=scarcekoi&show_icons=true&theme=catppuccin_mocha)
+
+![Scarce Koi's GitHub Streak](https://streak-stats.demolab.com?user=scarcekoi&theme=catppuccin-mocha)
